@@ -4,7 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: single
-classes: wide
 permalink: /
 author_profile: true
 ---
