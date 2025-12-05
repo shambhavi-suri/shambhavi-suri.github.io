@@ -4,7 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /about/
+permalink: /
 author_profile: true
 ---
 
