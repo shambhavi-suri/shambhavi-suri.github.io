@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shambhavi Suryanarayanan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate @ ORFE, \n Princeton University"
+  bio    : "Ph.D. Candidate @ ORFE<br>Princeton University"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
