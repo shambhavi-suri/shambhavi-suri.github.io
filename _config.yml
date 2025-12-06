@@ -66,8 +66,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=PmIFDOsAAAAJ&hl=en&authuser=4"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "www.linkedin.com/in/shambhavi-suryanarayanan-463055330"
 
 footer:
   links:
@@ -75,8 +78,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=PmIFDOsAAAAJ&hl=en&authuser=4"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "www.linkedin.com/in/shambhavi-suryanarayanan-463055330"
 
 defaults:
   # _posts
