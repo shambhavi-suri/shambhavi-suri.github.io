@@ -1,5 +1,7 @@
 ---
 permalink: /
+layout: single
+classes : wide
 title: "About Me"
 ---
 
