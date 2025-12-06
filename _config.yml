@@ -61,6 +61,8 @@ author:
   name   : "Shambhavi Suryanarayanan"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. Candidate @ ORFE<br>Princeton University"
+  email : "ss3472@princeton.edu"
+  linkedin : " shambhavi-suryanarayanan-463055330"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -68,9 +70,6 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=PmIFDOsAAAAJ&hl=en&authuser=4"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin-in"
-      linkedin_username: shambhavi-suryanarayanan-463055330
 
 footer:
   links:
