@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Shambhavi Suryanarayanan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. Candidate \n ORFE, Princeton University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
