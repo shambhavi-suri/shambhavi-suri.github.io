@@ -6,4 +6,4 @@ permalink: /cv
 author_profile: TRUE
 ---
 
-<embed src="https://belovanna.github.io/assets/download/sample.pdf" type="application/pdf" />
+<embed src="https://github.com/shambhavi-suri/shambhavi-suri.github.io/tree/master/files" type="application/pdf" />
