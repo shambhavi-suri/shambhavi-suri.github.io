@@ -70,7 +70,7 @@ author:
       url: "https://scholar.google.com/citations?user=PmIFDOsAAAAJ&hl=en&authuser=4"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/shambhavi-suryanarayanan-463055330"
+      linkedin_username: shambhavi-suryanarayanan-463055330
 
 footer:
   links:
@@ -82,7 +82,7 @@ footer:
       url: "https://scholar.google.com/citations?user=PmIFDOsAAAAJ&hl=en&authuser=4"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/shambhavi-suryanarayanan-463055330"
+      linkedin_username: shambhavi-suryanarayanan-463055330
 
 defaults:
   # _posts
