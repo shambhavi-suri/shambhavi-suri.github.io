@@ -82,13 +82,13 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: pages
+      type: posts
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      read_time: false
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -97,6 +97,8 @@ defaults:
     values:
       layout: single
       classes: wide
+      read_time: false
+      share : false
       author_profile: true
 
 category_archive:
