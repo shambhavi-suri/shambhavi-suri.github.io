@@ -60,7 +60,9 @@ plugins:
 author:
   name   : "Shambhavi Suryanarayanan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate \n ORFE, Princeton University"
+  bio    : "Ph.D. Candidate @ ORFE"
+            
+            "Princeton University"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
