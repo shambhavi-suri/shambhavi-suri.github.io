@@ -7,8 +7,8 @@ author_profile: TRUE
 
 ## Publications
 
-* **On Trimming Tensor-structured Measurements and Efficient Low-rank}**
-  (by _Suryanarayanan S_ and Rebrova E.)
+* **On Trimming Tensor-structured Measurements and Efficient Low-rank}**,<br>
+  (by _Suryanarayanan S_ and Rebrova E.)<br>
   [arXiv:2502.02843](https://arxiv.org/pdf/2502.02843), 2025.
 
 * **Randomized Kaczmarz methods for t-product tensor linear systems with factorized operators**
