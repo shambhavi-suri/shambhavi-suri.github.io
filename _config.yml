@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Shambhavi Suryanarayanan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D. Candidate @ ORFE<br>Princeton University"
+  bio    : "Ph.D. Candidate @ ORFE<br>Princeton University<br>ss3472\<at\>princeton.edu"
   email : "ss3472@princeton.edu"
   linkedin : "shambhavi-suryanarayanan-463055330"
   links:
@@ -70,6 +70,7 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=PmIFDOsAAAAJ&hl=en&authuser=4"
+      
 
 footer:
   links:
