@@ -6,4 +6,6 @@ title: "About Me"
 ---
 
 
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello! I am Shambhavi Suryanarayanan, a $5^{th}$ year graduate student at the **Operations Research and Financial Engineering Department** at **Princeton University** where I am advised by [https://erebrova.github.io][Elizaveta Rebrova]. 
+
+Previously, I recevied a dual BS-MS degree in Mathematics from the Indian Institute of Science Education and Research. I completed my Master's thesis on Applications of Topology to Data Analysis under the supervision of Priyavrat Deshpande at the Chennai Mathematical Institute. More details can be found in my CV! 
