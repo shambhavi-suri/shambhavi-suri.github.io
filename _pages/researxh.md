@@ -5,6 +5,8 @@ permalink: /research
 author_profile: TRUE
 ---
 
+My research is broadly in the field of mathematical data science. More specifically, I am interested in **developing robust iterative algorithms** for solving problems involving high-dimensional or multimodal objects like tensors. To tackle these problems, I utilize tools from numerical linear algebra, high-dimensional probability, machine learning, statistics, and optimization. 
+
 ## Publications
 
 * **On Trimming Tensor-structured Measurements and Efficient Low-rank}** <br>
