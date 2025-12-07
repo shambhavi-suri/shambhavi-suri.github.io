@@ -70,6 +70,9 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=PmIFDOsAAAAJ&hl=en&authuser=4"
+    - label: "CV"
+      href: "https://shambhavi-surigithub.io/files/Shambhavi_Suri.pdf" 
+      icon: "fas fa-fw fa-link"
       
 
 footer:
